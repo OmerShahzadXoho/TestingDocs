@@ -8,7 +8,7 @@ metadata:
       title: Google
       icon: web
   annotations:
-    backstage.io/techdocs-ref: url:https://github.com/OmerShahzadXoho/TestingDocs
+    backstage.io/techdocs-ref: url:https://github.com/OmerShahzadXoho/TestingDocs/blob/main/
 spec:
   type: Service
   lifecycle: Production
