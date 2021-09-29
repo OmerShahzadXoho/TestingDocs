@@ -21,7 +21,7 @@ spec:
     displayName: Omer Shahzad
     email: omers@xoho.tech
     picture: https://avatars.dicebear.com/api/avataaars/breanna-davison@example.com.svg?background=%23fff
-  memberOf: [Team-Xoho]
+  memberOf: [Xoho-Tech]
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
