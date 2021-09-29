@@ -2,7 +2,6 @@ site_name: 'google'
 
 nav:
   - Home: index.md
-    Docker: Docker.ping()
 
 plugins:
   - techdocs-core
