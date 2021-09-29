@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: group team-xoho
+  name: group-team-xoho
   description: xoho team
   tags:
     - xoho
