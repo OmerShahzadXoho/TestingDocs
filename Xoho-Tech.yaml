@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
   name: Xoho-Tech
-  description: IT infrastructure
+  description: Software Company
 spec:
   type: sub-department
   profile:
@@ -10,4 +10,4 @@ spec:
     email: info@xoho.tech
     picture: https://avatars.dicebear.com/api/identicon/backstage@example.com.svg?background=%23fff&margin=25
   parent: infrastructure
-  children: [team-xoho]
+  children: [Team-Xoho]
